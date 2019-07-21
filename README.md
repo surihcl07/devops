@@ -1,2 +1,1 @@
-# devops
-learning purpose 
+ravi added fist line1
